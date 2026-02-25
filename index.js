@@ -283,4 +283,4 @@ function toast(t){
 
 // INIT
 refrescarNav();
-cargarProductos();2
+cargarProductos();
